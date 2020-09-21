@@ -28,7 +28,7 @@ After downloaded, you have to move this folder in folder End-to-End-OCR.
 To test image using:
 
 ```
-python3 OCR.py --image_path [path to your image]
+python3 OCR.py --image_path test/test2.png
 
 ```
 
