@@ -34,7 +34,7 @@ python3 OCR.py --image_path [path to your image]
 
 ## Authors
 
-* **Nguyen Viet Hoai** - *Initial work* - [PurpleBooth](https://github.com/hoainv99)
+* **Nguyen Viet Hoai** - [github](https://github.com/hoainv99)
 
 
 ## License
