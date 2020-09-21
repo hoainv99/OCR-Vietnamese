@@ -1,6 +1,6 @@
 # End-to-End-OCR
 
-Model OCR combines 2 models: Text detection and Text recognition . Model text detection using CRAFT of clovaai and model text recognition using transformer OCR.
+Model OCR combines 2 models: Text detection and Text recognition . Model text detection using CRAFT and model text recognition using transformer OCR.
 
 ## Getting Started
 
