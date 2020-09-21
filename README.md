@@ -31,6 +31,9 @@ To test image using:
 python3 OCR.py --image_path test/test2.png
 
 ```
+now, the result below:
+
+![](test/test2.png)
 
 ## Authors
 
