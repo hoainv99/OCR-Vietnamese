@@ -1,4 +1,4 @@
-# End-to-End-OCR
+# OCR-Vietnamese
 
 Model OCR combines 2 models: Text detection and Text recognition . Model text detection using CRAFT and model text recognition using transformer OCR.
 
