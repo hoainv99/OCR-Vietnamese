@@ -1,6 +1,6 @@
 # OCR-Vietnamese
 
-Model OCR combines 2 models: Text detection and Text recognition . Model text detection using CRAFT and model text recognition using transformer OCR.
+PP-OCR is a practical ultra-lightweight OCR system. It is mainly composed of two parts: CRAFT text detection and Transformer text recognition.
 
 ## Getting Started
 
