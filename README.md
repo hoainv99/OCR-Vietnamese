@@ -5,8 +5,8 @@ PP-OCR is a practical ultra-lightweight OCR system. It is mainly composed of two
 ## Getting Started
 
 ```
-git clone https://github.com/hoainv99/End-to-End-OCR.git
-cd End-to-End-OCR
+git clone https://github.com/hoainv99/OCR-Vietnamese.git
+cd OCR-Vietnamese
 ```
 
 
